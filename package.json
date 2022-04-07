@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jorayeff.lwc-l1of2b55-fork-l1of3q44",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gmg65W42EcGnblwUFwgT --open"
+  }
+}
